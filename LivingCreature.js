@@ -1,4 +1,5 @@
-class LivingCreature {
+var LivingCreature = require('./LivingCreature.js');
+module.exports = class LivingCreature {
     constructor(x, y) {
         this.x = x;
         this.y = y;

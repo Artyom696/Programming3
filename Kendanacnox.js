@@ -1,4 +1,4 @@
-class Kendanacnox {
+module.exports = class Kendanacnox {
     constructor() {
 
     }
